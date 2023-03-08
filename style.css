@@ -1,0 +1,267 @@
+body {
+    overflow-x: hidden;
+}
+
+/* title*/
+
+#Title {
+    background-image: url("evie-s-Sw7f58YJbc0-unsplash.jpg");
+    font-weight: 900;
+ }
+
+ .h1 {
+    color: #fff;
+   padding-bottom:3%;
+   padding-top: 2%;
+   padding-left: 5%;
+   font-family: 'Shantell Sans', cursive;
+   font-weight: 900;
+}
+
+.para-1 {
+    font-size: 150%; 
+    padding-bottom: 3%;
+    padding-top: 5%;
+    padding-left: 5%;
+    font-family: "Alfa Slab One";
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+ }
+
+ .by {
+    padding-right: 20%;
+    text-align: right;
+    font-size: 200%;
+    font-weight: bold;
+
+}
+
+.hr1{
+    border-top: 3px solid rgb(126, 126, 126);
+    width: 40%;
+    margin-right: 60%;
+   
+}
+
+.hr-2 {
+    border-top: 3px solid  rgb(126, 126, 126);
+}
+
+.navbar-brand {
+    font-family: 'Climate Crisis', cursive;
+    font-size: 140%;
+    font-weight:bold;
+    padding-left: 2%;
+}
+
+.navbar {
+    font-family: "Alfa Slab One light";
+    font-size:150%;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.buddha-img {
+    height: 100%;
+    width: 85%;
+    margin-left: 15%;
+    margin-top: 7%;
+}
+
+.download-button {
+    margin: 0 2% 0 3%;
+}
+
+
+
+/* Features */
+
+#Features {
+    padding: 13% 15% 13% 15%;
+}
+
+.feature-box {
+    text-align: center;
+}
+
+.icon {
+    margin-bottom: 5%;
+}
+
+.icon:hover {
+    color: rgba(151, 151, 151, 0.904);
+}
+
+.para {
+    color: rgb(135, 135, 135);
+}
+
+
+
+/* Meaning */
+
+#Meaning {
+    padding: 5% 6%;
+    background-image: url("evie-s-Sw7f58YJbc0-unsplash.jpg");
+}
+
+h2 {
+    padding-top: 6%;
+    padding-bottom: 3%;
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'Shantell Sans', cursive;
+}
+
+.para-2 {
+   text-align: center;
+   font-size: 150%; 
+   font-weight: bold;
+   padding-bottom: 8%;
+   font-family: 'Shantell Sans', cursive;
+}
+
+
+/* experiance */
+
+#Experiance {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+
+.para-3 {   
+    font-family: 'Shantell Sans', cursive;
+    font-size: 250%;
+    font-weight: 500;
+    
+}
+
+.para-4 {
+    font-family:'Shantell Sans', cursive;
+    font-size: 250%;
+    font-weight: 300;
+    
+}
+
+.uncle-lee {
+   
+    height: 200px;
+    width: 180px;
+    padding-bottom: 1%;
+    padding-top: 2%;
+}
+
+.sis-pic {
+   
+    height:200px;
+    width: 180px;
+    padding-bottom: 1%;
+    padding-top: 2%;
+}
+
+
+/* press */
+
+#press {
+    padding: 3% 9%;
+    padding-bottom: 5%;
+}
+
+.press-img {
+    height: 15%;
+    width: 15%;
+    margin: 0 4% 2% 12%;
+    text-align: center;
+}
+
+
+
+/* spirituality */
+
+#Spirituality {
+    background-image: url("wp7053536-buddhist-monk-wallpapers.jpg");
+}
+
+.s-para {
+    padding: 5% 10% 5%;
+    font-size: 300%;
+    color: #fff;
+    font-weight: bolder;
+    font-family:'Shantell Sans', cursive ;
+}
+
+.B-para {
+    font-size: 300%;
+    color: #fff;
+    font-weight: bolder; 
+    font-family: "Alfa Slab One";
+    padding-left: 50%;
+    padding-bottom: 10%;
+}
+
+@media (max-width: 1000px) {
+    .s-para {
+        font-size: 200%;
+    }
+
+    .B-para {
+        font-size: 200%;
+    }
+}
+
+
+
+/* Pricing*/
+
+#Pricing-card{
+    padding: 2% 10%; 
+}
+
+.my-0 {
+  font-weight: bolder;
+}
+
+.hr-p {
+    border-top: 5px solid  rgb(126, 126, 126);
+    width: 50%;
+    padding-bottom: 5%;
+}
+
+.h2-p {
+    font-family: "Tilt Warp, cursive";
+    text-align: center;
+
+}
+
+.para-p {
+   
+    text-align: center;
+}
+
+
+
+/*Contact*/
+
+#Contact {
+    padding: 7% 10%;
+    background-color: rgb(59, 58, 58);
+    padding-left: 25%;
+}
+
+.logo {
+    height: 100%;
+    width: 20%;
+}
+
+.c-para {
+    padding-top: 5%;
+    padding-right: 24%;
+    text-align: center;
+}
+
+
+
+
