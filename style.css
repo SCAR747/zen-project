@@ -132,6 +132,24 @@ h2 {
 }
 
 
+
+#testimonials{
+    background-color: #ffffff;
+
+    text-align: center;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+
+
+
+
+
+
+
+
 .para-3 {   
     font-family: 'Shantell Sans', cursive;
     font-size: 250%;
