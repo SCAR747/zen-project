@@ -1,6 +1,4 @@
-body {
-    overflow-x: hidden;
-}
+
 
 /* title*/
 
@@ -130,21 +128,6 @@ h2 {
     padding: 7% 15%;
     text-align: center;
 }
-
-
-
-#testimonials{
-    background-color: #ffffff;
-
-    text-align: center;
-}
-.carousel-item{
-    padding: 7% 15%;
-}
-
-
-
-
 
 
 
